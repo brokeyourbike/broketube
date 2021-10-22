@@ -1,5 +1,7 @@
 # BrokeTube
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/3fa76f1d13879799db42/maintainability)](https://codeclimate.com/github/brokeyourbike/broketube/maintainability)
+
 TinyMCE 3 Plugin. Provide ability to add YouTube videos.
 
 ![](http://i.imgur.com/QL6cKbd.jpg)
@@ -12,3 +14,6 @@ TinyMCE 3 Plugin. Provide ability to add YouTube videos.
 - Also add `broketube` after `smimage` in the same file.
 
 Have fun =)
+
+## License
+[MIT License](https://github.com/brokeyourbike/broketube/blob/main/LICENSE)
